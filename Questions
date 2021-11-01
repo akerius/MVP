@@ -1,0 +1,28 @@
+Hi there Proff. Pan I did have a couple of questions for you before we submitted our revised slide deck.
+
+
+Before the questions I was wondering when we could meet because there is a lot of help I do need still understanding, and these are questions that we do have as a group so we would be meeting as a group. But if there is a time Monday where we could meet or zoom as a group and either ask these questions and get more help because I feel like we are almost there.
+
+
+First off I had a question in terms of what method we use to detrend the data. Is there a better method between differencing or using the residuals to make our data stationary. Is one preferred over the other and why? Because I do get better values on the fuller test with residuals.
+
+
+We do have zero seasonality, is that possibly because our data type is wrong in our list, do we need to set the data type as datetime and the freq as M if so how?
+
+
+We still really don't know how to remove the spike we have around 2017-2018, nothing seems to make general sense, do we just keep manipulating till it goes away? What is the best practice. 
+
+
+For the modeling part we have slides covering time-series, arima, dickey-fuller, and decomposition. Should we still have another slide for "explain the modeling and validation workflow".
+
+
+One of my pacf plots is extremely negative, is this possible and what would this mean?
+
+
+I also have more questions of EDA of our data as well as what conclusions we should draw from our models, how to test to see if these models are correct.
+
+
+
+
+
+
